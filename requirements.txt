@@ -10,4 +10,8 @@ langchain_community
 mistralai
 # langchain_experimental
 
+transformers
+accelerate
+torch
+
 -e .
