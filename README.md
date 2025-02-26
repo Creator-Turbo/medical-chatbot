@@ -19,7 +19,7 @@
 ---
 ## Demo
 This project is a Medical Chatbot designed to assist users with healthcare-related queries using AI-powered responses.<br>
-**Link to Demo:** [Medical-Chatbot](#) 
+**Link to Demo:** [comming-soon](#) 
 
 
 
@@ -158,6 +158,9 @@ If you encounter any bugs or want to request a new feature, please open an issue
 
 [<img target="_blank" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" width=170>](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [<img target="_blank" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width=170>](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+
+
+
 
 ---
 
