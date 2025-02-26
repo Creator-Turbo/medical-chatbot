@@ -6,12 +6,12 @@ pinecone[grpc]
 python-dotenv
 pinecone-client
 langchain-pinecone
-langchain_community
+langchain-community 
 mistralai
 # langchain_experimental
 
-transformers
-accelerate
-torch
+sentence-transformers
+aiml
+huggingface_hub==0.14.1
 
 -e .
