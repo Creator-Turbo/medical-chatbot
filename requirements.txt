@@ -1,4 +1,4 @@
-sentence-transformers==2.2.2
+sentence-transformers
 langchain
 flask         
 pypdf
@@ -7,11 +7,11 @@ python-dotenv
 pinecone-client
 langchain-pinecone
 langchain-community 
-mistralai
 # langchain_experimental
+langchain_huggingface
 
 sentence-transformers
-aiml
-huggingface_hub==0.14.1
+# huggingface_hub
+
 
 -e .
