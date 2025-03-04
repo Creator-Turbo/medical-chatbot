@@ -34,7 +34,7 @@ The Medical Chatbot leverages Large Language Models (LLMs) to provide accurate a
 
 Key Features:
 
-- Uses meta-llama/Llama-2-7b-chat-hf for generating responses.
+- Uses mistralai/Mistral-7B-Instruct-v0.3 for generating responses.
 
 - NLP-powered chatbot with real-time medical query handling.
 
@@ -138,6 +138,10 @@ medical-chatbot/
 
 - Enhance the UI with interactive visualization features.
 
+- Implement multimodal input to analyze medicine images and provide information
+
+- Integrate an audio system for voice-based interactions.
+
 
 ## Bug / Feature Request
 If you encounter any bugs or want to request a new feature, please open an issue on GitHub. Contributions are welcome!
@@ -147,13 +151,17 @@ If you encounter any bugs or want to request a new feature, please open an issue
 - Flask 🧩 – Web framework for building the chatbot API
 - LangChain 🦜🔗 – LLM orchestration and prompt management
 - Pinecone 🌲 – Vector database for fast medical knowledge retrieval
+- HTML 🖥️ – Structure for the chatbot's user interface
+- CSS 🎨 – Styling for an enhanced user experience
+- JavaScript ⚡ – Interactive and dynamic UI functionality
+
 
 
 
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://images.seeklogo.com/logo-png/61/1/langchain-logo-png_seeklogo-611654.png" width=170>](https://python.langchain.com/docs/introduction/) 
+[<img target="_blank" src="https://i.imgur.com/Ggvqguk.png" width=170>](https://python.langchain.com/docs/introduction/) 
 [<img target="_blank" src="https://icon2.cleanpng.com/20180829/okc/kisspng-flask-python-web-framework-representational-state-flask-stickker-1713946755581.webp" width=170>](https://flask.palletsprojects.com/en/stable/) 
 [<img target="_blank" src="https://seeklogo.com/images/P/pinecone-logo-C2C73F6C10-seeklogo.com.png" width=170>](https://docs.pinecone.io/guides/get-started/overview) 
 
