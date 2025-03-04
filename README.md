@@ -151,9 +151,11 @@ If you encounter any bugs or want to request a new feature, please open an issue
 - Flask 🧩 – Web framework for building the chatbot API
 - LangChain 🦜🔗 – LLM orchestration and prompt management
 - Pinecone 🌲 – Vector database for fast medical knowledge retrieval
+- Hugging Face 🤗 – Pretrained transformer models for natural language processing
 - HTML 🖥️ – Structure for the chatbot's user interface
 - CSS 🎨 – Styling for an enhanced user experience
 - JavaScript ⚡ – Interactive and dynamic UI functionality
+
 
 
 
@@ -163,11 +165,11 @@ If you encounter any bugs or want to request a new feature, please open an issue
 
 [<img target="_blank" src="https://i.imgur.com/Ggvqguk.png" width=170>](https://python.langchain.com/docs/introduction/) 
 [<img target="_blank" src="https://icon2.cleanpng.com/20180829/okc/kisspng-flask-python-web-framework-representational-state-flask-stickker-1713946755581.webp" width=170>](https://flask.palletsprojects.com/en/stable/) 
-[<img target="_blank" src="https://seeklogo.com/images/P/pinecone-logo-C2C73F6C10-seeklogo.com.png" width=170>](https://docs.pinecone.io/guides/get-started/overview) 
+[<img target="_blank" src="https://i.imgur.com/hWZ8OWK.png" width=170>](https://docs.pinecone.io/guides/get-started/overview) 
 
+[<img target="_blank" src="https://logowik.com/content/uploads/images/hugging-face1720994339.logowik.com.webp" width=170>](https://huggingface.co/docs) 
 [<img target="_blank" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" width=170>](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [<img target="_blank" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width=170>](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-
 
 
 
